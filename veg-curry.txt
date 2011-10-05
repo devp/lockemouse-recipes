@@ -1,0 +1,40 @@
+author: @devp and baba
+tags: #indian #bengali
+
+pick 3-5 veg:
+  potato + (sweetsquash|carrot) + (eggplant, cabbage, cauliflower, bellpeppers, greenbeans)
+
+spices:
+  pickling spices: (seeds) fenugreek, cumin, coriander, onionseed, fennel
+  mustard paste: mustard powder + water
+
+cooking eggplant:
+  it soaks up oil! careful.
+  coat in salt, and leave; separate the dark (and bitter) water that leaks out
+  you probably want to cook the eggplant separately
+
+cooking vegetables:
+  just like stirfry, you want similarly cut veg (though not necessarily the same size)
+  you want the pace when you put veg in vs the size of the cuts
+  size/shape of the cuts will affect the taste
+  it's more important that everything is totally cooked
+
+how to start with pickling spices:
+  a little oil, low/med heat until it's smoking
+  when it starts popping, it's ready to ad more stuff
+
+cooking:
+  heat the pickling spices
+  add vegetables and toss so all is covered in oil
+  add a pinch in turmeric, maybe ginger
+  add salt & sugar; mix more
+  cover and let simmer in low heat
+    option: throw in tomatoes halfway through its cooking
+  add mustard paste at very end
+
+alternatives to mustard paste:
+  1 can garganzo beans, sweet coconut flakes, sautee until brown, add
+
+possible kohlrabi notes?
+  spices: turmeric, cinnamon?
+  go with younger kohlrabi if possible
