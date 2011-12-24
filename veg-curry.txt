@@ -5,7 +5,8 @@ pick 3-5 veg:
   potato + (sweetsquash|carrot) + (eggplant, cabbage, cauliflower, bellpeppers, greenbeans)
 
 spices:
-  pickling spices: (seeds) fenugreek, cumin, coriander, onionseed, fennel
+  paanch phoron
+    i.e. pickling spices: (seeds) fenugreek, cumin, coriander, onionseed, fennel
   mustard paste: mustard powder + water
 
 cooking eggplant:
