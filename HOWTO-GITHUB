@@ -1,0 +1,11 @@
+@labmouse will use this file to take notes on how to github and make a cheat sheet. But here's a start...
+
+git pull # Pull down any changes to your local repo.
+git status # Look to see what files are changes, what files are new, etc.
+git add <filename> # Tell the repo to start tracking a certain file.
+	# You only need to do this for new files.
+git commit -m 'This is a message' <filename1> <filename2> <etc...> # Commit!
+	# Change "This is a message" to whatever message you want.
+	# Put in the filenames of whatever files you're committing in that list above.
+	# You should run "git status" before this command to see which files you want to commit.
+git push # Push your changes up to github. Done!
